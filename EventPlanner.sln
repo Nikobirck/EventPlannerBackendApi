@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventPlanner.Functions", "EventPlanner.Functions\EventPlanner.Functions.csproj", "{C450F5B2-81FF-4D1A-BD24-7EB16395A273}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventPlanner.AppCore", "EventPlanner.AppCore\EventPlanner.AppCore.csproj", "{8B1E158B-E38D-46CD-B0E7-43EDDB43ADA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventPlanner.Infrastructure", "EventPlanner.Infrastructure\EventPlanner.Infrastructure.csproj", "{B938AB02-C60F-4D6E-831E-6EB6DCE20C4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C450F5B2-81FF-4D1A-BD24-7EB16395A273}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C450F5B2-81FF-4D1A-BD24-7EB16395A273}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C450F5B2-81FF-4D1A-BD24-7EB16395A273}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C450F5B2-81FF-4D1A-BD24-7EB16395A273}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B1E158B-E38D-46CD-B0E7-43EDDB43ADA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B1E158B-E38D-46CD-B0E7-43EDDB43ADA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B1E158B-E38D-46CD-B0E7-43EDDB43ADA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B1E158B-E38D-46CD-B0E7-43EDDB43ADA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B938AB02-C60F-4D6E-831E-6EB6DCE20C4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B938AB02-C60F-4D6E-831E-6EB6DCE20C4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B938AB02-C60F-4D6E-831E-6EB6DCE20C4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B938AB02-C60F-4D6E-831E-6EB6DCE20C4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
