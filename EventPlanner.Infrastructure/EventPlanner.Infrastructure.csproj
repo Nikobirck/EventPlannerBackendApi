@@ -7,4 +7,8 @@
   <ItemGroup>
     <ProjectReference Include="..\EventPlanner.AppCore\EventPlanner.AppCore.csproj" />
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="CosmosDB\" />
+    <Folder Include="CosmosDB\DTO\" />
+  </ItemGroup>
 </Project>
